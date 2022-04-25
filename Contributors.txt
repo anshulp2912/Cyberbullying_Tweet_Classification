@@ -1,0 +1,8 @@
+Anshul Navinbhai Patel(apatel28)
+Anmolika Goyal(agoyal4)
+Shubhangi Jain(sjain29)
+
+Tasks
+	1.	Exploratory Data Analysis :  agoyal4, sjain29
+	2.	Worked on machine learning models to classify tweet texts into different categories based on bullying types: sjain29, apatel28
+	3.	User interface to classify and predict input tweets:  apatel28, agoyal4
