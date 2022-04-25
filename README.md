@@ -2,6 +2,7 @@
 ---
 ## NCSU CSC 591: Algorithms for Data Guided Buisness Intelligence
 #### Contributors: Anmolika Goyal(agoyal4), Anshul Navinbhai Patel(apatel28), Shubhangi Jain(sjain29)
+Github Link: https://github.com/anshulp2912/Cyberbullying_Tweet_Classification
 ---
 ### Demo
 ![Demo](https://github.com/anshulp2912/Cyberbullying_Tweet_Classification/blob/main/media/demo_cyberbullying.gif)
