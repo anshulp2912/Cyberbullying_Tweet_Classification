@@ -3,6 +3,9 @@
 ## NCSU CSC 591: Algorithms for Data Guided Buisness Intelligence
 #### Contributors: Anmolika Goyal(agoyal4), Anshul Navinbhai Patel(apatel28), Shubhangi Jain(sjain29)
 ---
+### Demo
+![Demo](https://github.com/anshulp2912/Cyberbullying_Tweet_Classification/blob/main/media/demo_cyberbullying.gif)
+
 ### Introduction
 As social media usage grows across all age groups, the great majority of individuals rely on this crucial medium for day-to-day communication. Because of the pervasiveness of social media, cyberbullying may affect anybody at any time or from any location, and the internet's relative anonymity makes such personal attacks more difficult to stop than conventional bullying.
 
