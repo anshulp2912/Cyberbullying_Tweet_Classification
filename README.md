@@ -20,6 +20,9 @@ Trigger Warning: These tweets either describe a bullying occurrence or are the c
 - models [.zip](https://drive.google.com/file/d/1BXoB4Dyz_d2NMJrc_9HkJXn3I6JA0g06/view?usp=sharing)
 
 ### Implementation
+  - We did initial data exploration to understand the attributes of the dataset. The dataset was plotted on a pie chart which showed a balanced data consisting of 6 different cyber bullying types based on gender, age, religion etc. Word cloud for different cyber bullying types illustrated common words that are generally observed in such tweets. 
+  - The data was cleaned and processed to visualize top 10 words and their frequency for each bullying type.
+  - Additionally, a dynamic table was created on the cleaned data to view common usernames, hashtags and the frequency of their tweets sorted by the count in descending order.
 
 
 ### Steps to Run
@@ -40,4 +43,5 @@ To predict classes on trained models:
 ### Results
 
 ### References
-- 
+- https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification
+- https://www.kaggle.com/code/abhishek/approaching-almost-any-nlp-problem-on-kaggle
